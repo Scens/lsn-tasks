@@ -1,8 +1,8 @@
 package util;
 
 public class DisjointSet {
-        int[] parent;
-        int[] size;
+        private final int[] parent;
+        private final int[] size;
 
         public DisjointSet(int maxNode) {
             this.parent = new int[maxNode + 1];
