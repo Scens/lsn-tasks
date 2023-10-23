@@ -1,0 +1,26 @@
+# Compiled bytecode
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IntelliJ specific
+*.iml
+*.iws
+.idea
+
+# Eclipse specific
+*.project
+*.metadata
+*.prefs
+*.settings
+.classpath
+.factorypath
+
+# Other
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
